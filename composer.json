@@ -1,0 +1,21 @@
+{
+    "name": "heriberto/aula12php",
+    "description": "Projeto icatalogo, utilizando o PDO e o MVC",
+    "autoload": {
+        "psr-4": {
+            "Heriberto\\Aula12php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonatanValdivia",
+            "email": "jonatan.viniciusvaldivia@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    } 
+}
